@@ -1,5 +1,5 @@
 try:
-    a=int(input("enter the number: "))
+    a=int(input("enter the row: "))
     print(a)
 except ValueError:
     print("invalid")
@@ -15,4 +15,4 @@ except IndexError:
     print("invalid")
 
 
-print(" sk")
+print(" abcd")
